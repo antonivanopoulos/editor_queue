@@ -1,0 +1,4 @@
+<div class="jumbotron">
+  <h2>Let's make an editor queue</h2>
+  <div id="edit-button" class="btn primary disabled">Edit Things</div>
+</div>

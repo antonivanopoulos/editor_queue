@@ -1,0 +1,13 @@
+/* This file is for your main application css. */
+
+.btn {
+  width: 150px;
+  height: 35px;
+  background-color: rgb(47, 79, 79);
+  color: white;
+}
+
+.btn.primary:hover {
+  color: white;
+  background-color: rgb(92, 113, 113);
+}
